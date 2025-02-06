@@ -1,7 +1,7 @@
 # Sistema de Coleta e Armazenamento de Dados de Pokémon
 
 Este projeto foi desenvolvido para integrar com a API pública do Pokémon, coletar dados sobre os Pokémon e armazená-los em um banco de dados SQLite. O sistema utiliza várias ferramentas, como SQLAlchemy para interação com o banco de dados, Pydantic para validação de dados e requests para fazer chamadas HTTP à API do Pokémon.
-![Demonstração do código](Documents/aula18/images/pic.png)
+![Demonstração do Código](images/demonstração-do-codigo.png)
 ## Funcionalidades
 
 - Coleta dados de Pokémon da API pública do Pokémon.
